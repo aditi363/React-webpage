@@ -1,0 +1,8 @@
+.home {
+  display: flex;
+}
+.gradient-bg{
+  background: linear-gradient(140deg, PURPLE 0%, BLUE
+  
+   100%);
+}

@@ -1,0 +1,24 @@
+.bannerImg {
+  width: 100%;
+  height: 450px;
+  object-fit: cover;
+}
+
+.gradient-bg{
+  background: linear-gradient(140deg, PURPLE 0%, BLUE
+
+   100%);
+}
+
+.main-header{
+  font-size: 1.25rem;
+  color: #fff;
+  padding-top: 3rem;
+}
+@media (min-width:600px)
+{
+  .home-banner{
+    padding-bottom: 100px;
+  }
+}
+  
